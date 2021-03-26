@@ -28,7 +28,7 @@ export const stakingContract: string =
 export const network: NetworkType = {
   id: 'testnet',
   name: 'Testnet',
-  egldLabel: 'xEGLD',
+  egldLabel: 'EGLD',
   walletAddress: 'https://testnet-wallet.elrond.com/dapp/init',
   apiAddress: 'https://testnet-api.elrond.com',
   gatewayAddress: 'https://testnet-gateway.elrond.com',

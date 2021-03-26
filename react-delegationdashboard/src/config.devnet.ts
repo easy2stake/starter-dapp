@@ -25,7 +25,7 @@ export const stakingContract: string =
 export const network: NetworkType = {
   id: 'devnet',
   name: 'Devnet',
-  egldLabel: 'xEGLD',
+  egldLabel: 'EGLD',
   walletAddress: 'https://devnet-wallet.elrond.com/dapp/init',
   apiAddress: 'https://devnet-api.elrond.com',
   gatewayAddress: 'https://devnet-gateway.elrond.com',
